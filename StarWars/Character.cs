@@ -35,6 +35,11 @@ namespace StarWars
             set;
         }
 
+        public override string ToString()
+        {
+            return string.Format("[Character: Name={0}, Species={1}, MidichlorianCount={2}]", Name, Species, MidichlorianCount);
+        }
+
         public int CompareTo(Character other)
         {
             return this.MidichlorianCount.CompareTo(other.MidichlorianCount);
