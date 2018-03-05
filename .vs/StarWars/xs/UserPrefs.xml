@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{9812E26D-DFB7-43FF-8808-5DA544817324}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StarWars/Program.cs">
+    <Files>
+      <File FileName="StarWars/Program.cs" Line="55" Column="13" />
+      <File FileName="StarWars/SampleData.cs" Line="36" Column="50" />
+      <File FileName="StarWars/Movie.cs" Line="33" Column="40" />
+      <File FileName="StarWars/Character.cs" Line="40" Column="127" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StarWars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

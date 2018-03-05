@@ -53,10 +53,6 @@ namespace StarWars
             Console.WriteLine(avgMCofSpacePeople);
 
 
-            Random rand = new Random();
-
-            rand.Next()
-
         }
     }
 }
